@@ -1,0 +1,1038 @@
+Title,Topic,Content
+What is Sivi?,Get started,"Sivi AI is a template-free AI design tool that generates branded designs for your business. Sivi instantly creates:
+<ul>
+<li>Display ads</li>
+<li>Social media posts</li>
+<li>Website banners</li>
+<li>Email headers</li>
+<li>Cover banners</li>
+<li><a href=""https://sivi.ai/usecases"">And more</a></li>
+</ul>
+
+Unlike template-based design tools Sivi follows the human design process and generates creatives from scratch based on your input.
+
+To learn more about the benefits of Sivi check out <a href=""https://sivi.ai/why"">this page</a>
+
+Note: Sivi generates marketing creatives not logos product images or websites."
+How to use Sivi?,Get started,"Start generating designs in simple steps.
+
+<ol>
+<li>Sign up
+Visit instant.sivi.ai and sign up in seconds using Gmail LinkedIn or email.
+<a href=""https://instant.sivi.ai/"">Sign up for free</a>
+<img alt="""" src=""https://media.hellosivi.com/photos/sMwdwq39SQj.png"" />
+</li>
+
+<li>Set up your brand
+Add your website and import all your brand assets (logo colors images etc.) automatically or add them manually.
+<a href=""/support/brand-setup"">Brand setup</a>
+<img alt="""" src=""https://media.hellosivi.com/photos/sdbR6625E8x.png"" />
+</li>
+
+<li>Choose dimensions
+From preset platform sizes to custom dimensions add the required design size.
+<a href=""/support/choose-dimensions"">Choose design size</a>
+<img alt="""" src=""https://media.hellosivi.com/photos/sRoNiMuas5Y.png"" />
+</li>
+
+<li>Generate designs
+Based on your brand details Sivi will auto-suggest design ideas. You can use them or add your own prompt and get template-free designs in minutes.
+<a href=""/support/prompt-to-design"">Prompt to design</a>
+<img alt="""" src=""https://media.hellosivi.com/photos/syDcyinJfEr.png"" />
+</li>
+</ol>"
+Glossary,Get started,"Understand key terms you’ll see across Sivi. This glossary helps you get familiar with Sivi so you can create designs faster.
+
+Design prompt
+The input you give Sivi to start generating a design. This can be a short description like “summer sale banner for sunglasses.”
+
+Brand kit
+A space to save your brand assets including colors fonts and logos. Sivi uses this to maintain consistency across your designs.
+
+Asset
+Files that you add to use in your design. This includes logos images icons or product shots.
+
+Generation settings
+Controls to customize how Sivi generates your design including design count style preferences and more.
+
+Copy
+Banner text that Sivi creates for your design based on the prompt. This includes headlines subtext and call-to-actions.
+
+Design variation
+Different design options that Sivi generates for the same prompt. You can pick your favorite or edit further.
+
+Layers
+Individual visual elements including background text and icons stacked to compose a design.
+
+Design Editor
+A visual editing tool to edit layouts fonts colors images and fine-tune every layer of your generated design.
+
+Design style
+A visual theme applied to your design. It defines the overall tone of the design.
+
+Workspace
+Your account space in Sivi where you manage designs brand kits and preferences.
+
+Prompt engineering
+Crafting input to guide Sivi to generate the desired designs.
+
+Content engineering
+Drafting structured content that helps Sivi understand the purpose flow and tone of your input in Content Editor.
+
+Content Editor
+A space to write and organize your content blocks like text buttons icons and dividers.
+
+Content blocks
+Individual text and asset elements added to the Content Editor to generate designs.
+
+Primary asset
+The main image used in a design. Usually a product or feature image you want to highlight."
+Brand setup,Brand kit,"Sivi makes it easy to set up your brand kit so all your marketing creatives stay consistent from day one.
+
+<ol>
+<li>After signing up enter your website URL during the onboarding.
+<img alt="""" src=""https://media.hellosivi.com/photos/shQz4OXfyhb.png"" />
+</li>
+<li>Prefer to add brand details manually? You can do that too by selecting the Manual option.
+<img alt="""" src=""https://media.hellosivi.com/photos/sSBd7oNBnnk.png"" />
+</li>
+<li>Sivi will automatically pull your brand details from the website and add them to the Brand Kit. This includes logo company name description social handles images colors and typography.
+<img alt="""" src=""https://media.hellosivi.com/photos/szbO4moYVlU.png"" />
+</li>
+</ol>
+
+Once the brand details are confirmed Sivi will analyse and finish the Brand Guide. Add the required design dimensions. Choose a suggested design idea or add your prompt. Generate on-brand designs instantly.
+
+Tip: Need to make changes later? Click on Brand Guide at the top right of the Home page to view and update your brand info."
+Brand colors,Brand kit,"You can add and edit the brand colors in simple steps.
+
+<ol>
+<li>Click on the Brand Guide at the top of the home page.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sXctzJoAjXt.png"" /></li>
+<li>Scroll down to the Colors section tap on the color to edit.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sW1AfuVvWNf.png"" /></li>
+<li>You can either enter the hex code directly or drag the slider.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sC3bVHeXFoF.png"" /></li>
+<li>To set a color as a primary color select Set as primary and click Save.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sN1xiG37xdL.png"" /></li>
+<li>Delete a color by clicking the Delete icon.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sZMMKigDRIr.png"" /></li>
+<li>To add more colors click the + button.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sfv2pGquRSA.png"" /></li>
+</ol>
+
+For consistent branding across your designs click the Settings icon on the right side of the prompt bar and select Brand in the Colors section."
+Brand fonts,Brand kit,"Set your brand font pairs and generate on-brand designs every time.
+
+<ol>
+<li>Click on the Brand Guide at the top of the home page.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sqbwooReofD.png"" /></li>
+<li>Scroll down to the Typography section to see the font pairing pulled during onboarding.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sRnKDuFs7k8.png"" /></li>
+<li>To update a specific font click on the font pair and select the font.  
+<img alt="""" src=""https://media.hellosivi.com/photos/szKcY1htfi3.png"" /></li>
+<li>Search for the required font and select it.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sUfbzLBeeV6.png"" /></li>
+<li>Click Save on the bottom of the page to update the font pair.  
+<img alt="""" src=""https://media.hellosivi.com/photos/s0SIzM7Lrkb.png"" /></li>
+<li>To add new font pairs click Add Typography.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sUQx9UTrKrr.png"" /></li>
+<li>Browse the Recommendations section for curated font pair suggestions.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sq7vwSx1gLJ.png"" /></li>
+<li>Want to create your own pair? Click Form New Style and select the fonts you prefer.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sBKmkPZQIsd.png"" /></li>
+<li>To use your own fonts click Upload Fonts and add them from your device.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sUgXvQpQND8.png"" /></li>
+</ol>
+
+Use these font settings to make sure every design reflects your brand."
+Brand assets library,Brand kit,"Sivi automatically builds a brand library by extracting assets from your website. Here is how you can work with it to keep everything in one place.
+
+<ol>
+<li>Click on the Brand Guide at the top of the home page.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sUBWOMKq78Z.png"" /></li>
+<li>Go to the Library section.  
+<img alt="""" src=""https://media.hellosivi.com/photos/s1h6owImxpZ.png"" /></li>
+<li>Under Assets click Add Media to browse free stock images or upload files from your device.  
+<img alt="""" src=""https://media.hellosivi.com/photos/sOtcFn1BWpu.png"" /></li>
+<li>To keep your library organized select any unwanted assets and click the Delete icon.  
+<img alt="""" src=""https://media.hellosivi.com/photos/s0iEzePFEAv.png"" /></li>
+</ol>"
+Prompt to design,Generate your first design,"Turn your idea into template-free designs in an instant with the AI design generator.
+
+<ol>
+  <li>Login to <a href=""https://instant.sivi.ai/"">Sivi</a> and click on the dimensions dropdown.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/snofC3xBLMc.png"" />
+  <li>Choose the required dimensions.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sDIJoufHoEC.png"" />
+  <li>Enter your design prompt and hit send.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/s2cQZZFt4L4.png"" />
+  <li>Sivi analyzes your prompt and generates banner copy variations.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sqWBW30sI9V.png"" />
+  <li>It also generates images with the built-in AI image generator. Pick the ones you like and click Generate Designs.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/s3fDcQJWaaV.png"" />
+  <li>Watch as Sivi generates template-free designs in seconds.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sjByyo8wi63.png"" />
+</ol>
+
+Make quick edits if needed download and share them instantly."
+Choose dimensions,Generate your first design,"Want to upgrade your LinkedIn profile with a banner? With Sivi you don’t need to remember the ideal 1584 x 396 px size or settle for generic overused templates. 
+Generate template-free instant designs in dimensions that meet your needs whether it's a preset size or custom dimensions.
+
+<ol>
+  <li>Tap the dimensions dropdown above the prompt field.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sssEJ3zPXR7.png"" />
+  <li>Select the required design type and size.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sQNfhdPDZKE.png"" />
+  <li>Or enter a custom design width and height for full control.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sC9xd2pjduD.png"" />
+</ol>"
+Languages,Generate your first design,"Running Facebook ads for a Spanish-speaking audience? Or maybe you're targeting customers in French Japanese or Arabic? With Sivi it's easy to generate designs in over 90 languages.
+
+<ol>
+  <li>Click the En language icon at the top right of the prompt field.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sGbc0TV98EZ.png"" />
+  <li>Use the dropdown next to Language Detected and select the language you need.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sREQ2b8zl1R.png"" />
+</ol>
+
+Here are the supported languages:
+
+<ol>
+  <li>Albanian</li>
+  <li>Arabic</li>
+  <li>Armenian</li>
+  <li>Assamese</li>
+  <li>Azerbaijani</li>
+  <li>Basque</li>
+  <li>Bengali</li>
+  <li>Bosnian</li>
+  <li>Bulgarian</li>
+  <li>Burmese</li>
+  <li>Catalan</li>
+  <li>Chinese</li>
+  <li>Croatian</li>
+  <li>Czech</li>
+  <li>Danish</li>
+  <li>Dutch</li>
+  <li>English</li>
+  <li>Esperanto</li>
+  <li>Estonian</li>
+  <li>Ewe</li>
+  <li>Faroese</li>
+  <li>Filipino</li>
+  <li>Finnish</li>
+  <li>French</li>
+  <li>Friulian</li>
+  <li>Galician</li>
+  <li>German</li>
+  <li>Greek</li>
+  <li>Gujarati</li>
+  <li>Hawaiian</li>
+  <li>Hebrew</li>
+  <li>Hindi</li>
+  <li>Hungarian</li>
+  <li>Icelandic</li>
+  <li>Igbo</li>
+  <li>Indonesian</li>
+  <li>Irish</li>
+  <li>Italian</li>
+  <li>Japanese</li>
+  <li>Kabuverdianu</li>
+  <li>Kalenjin</li>
+  <li>Kannada</li>
+  <li>Khmer</li>
+  <li>Kinyarwanda</li>
+  <li>Konkani</li>
+  <li>Korean</li>
+  <li>Latvian</li>
+  <li>Lingala</li>
+  <li>Lithuanian</li>
+  <li>Luxembourgish</li>
+  <li>Macedonian</li>
+  <li>Makonde</li>
+  <li>Malagasy</li>
+  <li>Malayalam</li>
+  <li>Maltese</li>
+  <li>Marathi</li>
+  <li>Nepali</li>
+  <li>Norwegian</li>
+  <li>Oriya</li>
+  <li>Oromo</li>
+  <li>Pashto</li>
+  <li>Persian</li>
+  <li>Polish</li>
+  <li>Portuguese</li>
+  <li>Punjabi</li>
+  <li>Romanian</li>
+  <li>Russian</li>
+  <li>Scottish Gaelic</li>
+  <li>Serbian</li>
+  <li>Shona</li>
+  <li>Sinhala</li>
+  <li>Slovak</li>
+  <li>Slovenian</li>
+  <li>Somali</li>
+  <li>Spanish</li>
+  <li>Swahili</li>
+  <li>Swedish</li>
+  <li>Tamil</li>
+  <li>Telugu</li>
+  <li>Thai</li>
+  <li>Tibetan</li>
+  <li>Turkish</li>
+  <li>Urdu</li>
+  <li>Uzbek</li>
+  <li>Vietnamese</li>
+  <li>Welsh</li>
+  <li>Yiddish</li>
+  <li>Yoruba</li>
+  <li>Zulu</li>
+</ol>
+
+Tip: If the design doesn’t render correctly in your selected language go to Settings and try choosing a font that supports that script. 
+If your preferred language is not supported please inform us and we will add it to our language offerings."
+Design assets,Generate your first design,"Sivi lets you add a variety of assets including images icons illustrations logos screenshots and backdrops to match your brand and message.
+
+<ol>
+  <li>Click the Media icon on the left side of the prompt field.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/saswuQntoTs.png"" />
+  <li>Based on your prompt Sivi will show smart asset suggestions. You can pick from these or click + to browse more.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sShRfoDMtTm.png"" />
+  <li>In the Free section explore millions of free high-quality stock assets.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/srT4bEIBex7.png"" />
+  <li>Under Library access assets saved in your brand kit.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sAYGV5MNuag.png"" />
+  <li>To add your own files click Upload and select images from your device.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/sE0CI7aLjxU.png"" />
+</ol>"
+Edit content,Generate your first design,"Edit the generated copy before generating your banner design in simple steps.
+<ol>
+  <li>Once the copy is generated from your prompt select the copy you want to update.
+    <img alt="""" src=""https://media.hellosivi.com/photos/sh97t34Otkh.png"" />
+  </li>
+  <li>Click the drop-down arrow next to the Generate Designs button and select Edit Content to go to Content Editor.
+    <img alt="""" src=""https://media.hellosivi.com/photos/sGeph78DWR7.png"" />
+  </li>
+  <li>To modify content after generating a design click Edit Content at the bottom of the design.
+    <img alt="""" src=""https://media.hellosivi.com/photos/sJa95NzoZF4.png"" />
+  </li>
+</ol>
+To know more about Content Editor check out <a href=""/support/generate-designs-for-your-content"">this article.</a>"
+Marketing idea,Generate your first design,"Need a spark for your next campaign? Get fresh marketing ideas instantly. Sivi suggests new marketing visual ideas every time it refreshes.
+
+<ol>
+  <li>You can click on the suggested copy and images to view content variations.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/s1urJMlvxuw.png"" />
+  <li>Choose the original or mix and match before generating designs.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/s94oWVXwyrN.png"" />
+  <li>Or you can also click on the suggested prompt to generate new copy and images.</li>
+  <img alt="""" src=""https://media.hellosivi.com/photos/slSn6zmM1Ng.png"" />
+</ol>
+
+Pick the ones that work best for you and generate designs."
+Generation settings,Design generation,"Generation settings help Sivi understand your design preferences and generate creatives that match your needs. In Auto mode Sivi selects the best settings for your content automatically. If you want more control you can customize the generation preferences easily.
+
+<ol>
+  <li>Click Settings on the left side of the prompt field.</li>
+  <img src=""https://media.hellosivi.com/photos/sDTfz8SLAkP.png"" alt="""" />
+  <li>Under the Colors and Typography sections select Brand to use your brand colors and fonts.</li>
+  <img src=""https://media.hellosivi.com/photos/sgsBhG1d77F.png"" alt="""" />
+  <li>To add a custom color palette and font groups choose Custom in both sections.</li>
+  <img src=""https://media.hellosivi.com/photos/sgPU80kg191.png"" alt="""" />
+  <li>Select the layout style cards based on your content and design preferences.</li>
+  <img src=""https://media.hellosivi.com/photos/sVIQUIj75X1.png"" alt="""" />
+  <li>Scroll down and choose Custom to fine-tune the generation.</li>
+  <img src=""https://media.hellosivi.com/photos/s5FYkH4hB5q.png"" alt="""" />
+  <li>Explore the advanced options like Themes Button and Vector to further customize the designs.</li>
+  <img src=""https://media.hellosivi.com/photos/smbMTIMe96L.png"" alt="""" />
+</ol>"
+Design count,Design generation,"Need just one design variant for your last-minute Instagram post? Set the Design Count to 1 optimize your credit usage and get designs much faster.
+
+<ol>
+  <li>Go to the Settings by clicking the settings icon on the left side of the prompt field.</li>
+  <img src=""https://media.hellosivi.com/photos/sgPU80kg191.png"" alt="""" />
+  <li>Drag the Design Count slider from 4 to 1.</li>
+  <img src=""https://media.hellosivi.com/photos/sVJBWIzSgoP.png"" alt="""" />
+</ol>
+
+Save time and credits by generating just the designs you need."
+Design style,Design generation,"From image container to design layout Styles lets you control several aspects of design. In Auto mode for Styles Sivi will automatically pick the style card that works best for your content. While it's recommended to use Auto mode you can also choose style cards if you have something specific in mind.
+
+<ol>
+  <li>Tap the Settings icon on the left side of the prompt field.</li>
+  <img src=""https://media.hellosivi.com/photos/sBzYxQ78NIG.png"" alt="""" />
+  <li>Scroll down and select the layout style cards based on your design preferences.</li>
+  <img src=""https://media.hellosivi.com/photos/s4zonWUmfzb.png"" alt="""" />
+</ol>
+
+Explore the settings further to customize your design generation."
+View Behind The Scenes (BTS),Design generation,"Intrigued by a design and want a sneak peek at how it got generated?
+
+<ol>
+  <li>Hover over the design on the generation page and click the three dots.</li>
+  <img src=""https://media.hellosivi.com/photos/s7rnODbcshK.png"" alt="""" />
+  <li>Select BTS Replay and watch the magic.</li>
+  <img src=""https://media.hellosivi.com/photos/st9fRCBQTzt.png"" alt="""" />
+</ol>"
+Download generated design,Design generation,"After generating designs with AI you are just a few clicks away from downloading them. Download designs for free without watermarks.
+
+<ol>
+  <li>Hover over the designs you need and click 'Download'.</li>
+  <img src=""https://media.hellosivi.com/photos/sLFSGK9IKFG.png"" alt="""" />
+  <li>Choose the format – JPG PNG HTML or SVG – and download the design.</li>
+  <img src=""https://media.hellosivi.com/photos/s9fE1gyLUgG.png"" alt="""" />
+</ol>"
+Share designs,Design generation,"Share your designs with the world (or keep them private) in just a few easy steps.
+
+<ol>
+  <li>Scroll and tap on the Share icon at the bottom of the results page.</li>
+  <img src=""https://media.hellosivi.com/photos/szA6NzV6Cfr.png"" alt="""" />
+  <li>Click Copy Link to copy the design results link. Keeping the toggle On allows others to view the designs.</li>
+  <img src=""https://media.hellosivi.com/photos/se9H4SQl8ZI.png"" alt="""" />
+  <li>If you prefer to keep them private turn it off.</li>
+  <img src=""https://media.hellosivi.com/photos/sPoOJTmEO5R.png"" alt="""" />
+</ol>"
+Edit design,Editing your design,"Want to make the logo bigger? Edit the generated design as you like using the design editor.
+
+<ol>
+  <li>Hover over the design and click the Edit icon or tap directly on the design.</li>
+  <img src=""https://media.hellosivi.com/photos/sjJeee1hjoW.png"" alt="""" />
+  <li>Select the design element you want to change and make the necessary adjustments.</li>
+  <img src=""https://media.hellosivi.com/photos/sHmeoW1mUiW.png"" alt="""" />
+</ol>"
+Vectors,Editing your design,"Let's say you have generated a design to promote your backpacks and you’re looking to enhance its visual appeal by adding some vector shapes. Here’s how you can add vector shapes to generated designs in the design editor:
+
+<ol>
+    <li>Click the + button in the right side bar and choose the desired shape.
+        <img alt="""" src=""https://media.hellosivi.com/photos/srxHMusaSxQ.png"" />
+    </li>
+    <li>Adjust the position of the shape by dragging it or modify its size using the resize handles located at the corners.
+        <img alt="""" src=""https://media.hellosivi.com/photos/sASSGPE4M19.png"" />
+    </li>
+    <li>Fill the vector with color gradient pattern or image using the fill property.
+        <img alt="""" src=""https://media.hellosivi.com/photos/sHNKpZwNMVj.png"" />
+    </li>
+    <li>Use the border property to add stroke to the vector.
+        <img alt="""" src=""https://media.hellosivi.com/photos/sUeOhgDeMc4.png"" />
+    </li>
+    <li>Select the shadow property to add and customize the shadow effect.
+        <img alt="""" src=""https://media.hellosivi.com/photos/sEgRyoGHgDL.png"" />
+    </li>
+</ol>"
+Fonts,Editing your design,"Imagine you’ve generated designs to showcase your bridal makeup services. As you are selecting the design for posting you want to edit the text in the design to make it more captivating. Here are a few options you might want to try.
+
+<ol>
+   <li>Double-click on the text to edit the copy.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sIEl0wwpr3n.png"" />  
+   </li>
+   
+   <li>Try a different font by choosing one from the font library dropdown.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sLMdCQUFZnE.png"" />  
+   </li>
+   
+   <li>Play around with the font size.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sGTKcWIMK3h.png"" />  
+   </li>
+   
+   <li>Use Text Align to change the alignment.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/s7PQecM02fT.png"" />  
+   </li>
+   
+   <li>Apply Text Transform to capitalize or make it lower/upper case.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/spx52Npjoig.png"" />  
+   </li>
+   
+   <li>Try Text Options to underline or strikethrough the text.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/s4UBHg0qCrT.png"" />  
+   </li>
+</ol>"
+Edit colors,Editing your design,"Want to tweak the colors in your design? You can add solid colors gradients patterns or even an image fill.
+
+<ol>
+  <li>In the design editor select the layer you want to change.</li>
+  <img src=""https://media.hellosivi.com/photos/s13LsXKwLE4.png"" alt="""" />
+  <li>Under the Fill section in the Properties panel click Color and use the color picker or enter a hex code directly.</li>
+  <img src=""https://media.hellosivi.com/photos/sypS9jomF7l.png"" alt="""" />
+  <li>For gradients click Gradient and toggle Fill with gradient. Pick from suggestions or create your own under Add.</li>
+  <img src=""https://media.hellosivi.com/photos/souXqN0ejgT.png"" alt="""" />
+  <li>To use a pattern choose Pattern and select the one that fits your style.</li>
+  <img src=""https://media.hellosivi.com/photos/sJlypUrBJxH.png"" alt="""" />
+  <li>You can also fill a layer with an image. Click Image and add from free stock brand library or your device.</li>
+  <img src=""https://media.hellosivi.com/photos/sBq4fCZjLe2.png"" alt="""" />
+</ol>"
+Enhance,Editing your design,"Want to change colors of the generated design and give your design a fresh look? Use Enhance features for smart style suggestions.
+
+<ol>
+  <li>Click the Enhance icon on the right side of the design editor.</li>
+  <img src=""https://media.hellosivi.com/photos/sgf5yxuwQPB.png"" alt="""" />
+  <li>Adjust the color palette as needed.</li>
+  <img src=""https://media.hellosivi.com/photos/shWdpDxDkcX.png"" alt="""" />
+  <li>Pick a Theme that suits your brand.</li>
+  <img src=""https://media.hellosivi.com/photos/s3sDW2Wu6px.png"" alt="""" />
+  <li>Click the Palette Style drop-down and select the required style.</li>
+  <img src=""https://media.hellosivi.com/photos/svbYoGGj30w.png"" alt="""" />
+  <li>Click Enhance and watch the magic happen.</li>
+  <img src=""https://media.hellosivi.com/photos/skOy7ect8sR.png"" alt="""" />
+</ol>"
+Download edited design,Editing your design,"Done with edits? Download the design in your preferred format and put it to use right away.
+
+<ol>
+  <li>Click the Download icon at the top of the design editor.</li>
+  <img src=""https://media.hellosivi.com/photos/sBD2PHSeDyU.png"" alt="""" />
+  <li>Choose the file type you need – JPG PNG HTML or PDF.</li>
+  <img src=""https://media.hellosivi.com/photos/sym63cvW2c8.png"" alt="""" />
+  <li>Click Download and save the design to your device.</li>
+  <img src=""https://media.hellosivi.com/photos/sLphtFMGdg1.png"" alt="""" />
+</ol>"
+Crop image,Editing your design,"Are you interested in cropping an image within a generated design? Enter the design editor and simply follow these steps:
+
+<ol>
+  <li>Click the image and choose Ungroup to separate it from other elements.
+      <img alt="""" src=""https://media.hellosivi.com/photos/sqUyS3AwBSS.png"" />  
+   </li>
+   <li>Double-tap on the image.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sTVqtv709FE.png"" />  
+   </li>
+   <li>Move around the image within the visible area by clicking and dragging.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sQtOxvaBnBG.png"" />  
+   </li>
+   <li>Resize the image to your desired dimensions using the corners.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sdylfrQ8l0f.png"" />  
+   </li>
+</ol>
+
+Crop effortlessly: Double-tap move resize – done!"
+Edit layer,Editing your design,Move design elements between layers duplicate hide or delete them for better control.
+Pricing details,Plans and credits,"You can start generating designs with Sivi for free but paid plans unlock more credits dimensions and advanced features. Pricing plans start at just $10/month. To know more:
+
+<ol>
+  <li>Click on the User Profile at the top right and select Billing & Usage.</li>
+  <img src=""https://media.hellosivi.com/photos/sONcu2WevcB.png"" alt="""" />
+  <li>In the Plan Details section click Choose Plan.</li>
+  <img src=""https://media.hellosivi.com/photos/sZ22ItU8cl6.png"" alt="""" />
+  <li>See your current plan and all available options. Find the required plan and click Upgrade.</li>
+  <img src=""https://media.hellosivi.com/photos/sio2prClxdU.png"" alt="""" />
+  <li>Enter your card details and confirm the payment.</li>
+  <img src=""https://media.hellosivi.com/photos/sROCIcimzAg.png"" alt="""" />
+</ol>"
+Credits,Plans and credits,
+Upgrade plan,Plans and credits,"You can change your current subscription in just a few steps.
+
+<ol>
+  <li>On the homepage click User Profile in the top right corner and select Billing & Usage.</li>
+  <img src=""https://media.hellosivi.com/photos/snYFIzhyv8V.png"" alt="""" />
+  <li>Click Switch Plan in the Plan Details section.</li>
+  <img src=""https://media.hellosivi.com/photos/sAqvZtjIHfu.png"" alt="""" />
+  <li>View plan details. Find the required plan and click Upgrade.</li>
+  <img src=""https://media.hellosivi.com/photos/s97ftTWsbca.png"" alt="""" />
+  <li>Add your payment details and confirm.</li>
+  <img src=""https://media.hellosivi.com/photos/sGHup1oNKhp.png"" alt="""" />
+</ol>
+
+Upgrading will be effective immediately with credits adjusted based on your previous plan."
+Downgrade plan,Plans and credits,"You can move to a lower plan including the free plan at any time.
+
+<ol>
+  <li>Click User Profile in the top right of the home page and select Billing & Usage.</li>
+  <img src=""https://media.hellosivi.com/photos/seWW2wouzHv.png"" alt="""" />
+  <li>Click Switch Plan.</li>
+  <img src=""https://media.hellosivi.com/photos/s3bbFS9bFhp.png"" alt="""" />
+  <li>View your plan details. Find the required plan and click Downgrade.</li>
+  <img src=""https://media.hellosivi.com/photos/sJ52npZHKDS.png"" alt="""" />
+  <li>Type the given prompt and confirm.</li>
+  <img src=""https://media.hellosivi.com/photos/shsootxvbbe.png"" alt="""" />
+</ol>"
+Auto renew,Plans and credits,Your subscription will automatically renew using the saved payment method. If there are any issues with the renewal we'll notify you. You’ll have 7 days to make any necessary adjustments.
+Cancel subscription,Plans and credits,"If you want to cancel your subscription follow these steps. Unused credits will remain available until the end of your current billing period.
+
+<ol>
+  <li>Click User Profile in the top right of homepage and choose Billing & Usage.</li>
+  <img src=""https://media.hellosivi.com/photos/sIFfzxwYqpa.png"" alt="""" />
+  <li>In the Plan Details section click Cancel.</li>
+  <img src=""https://media.hellosivi.com/photos/sysVfp2g6nF.png"" alt="""" />
+  <li>Type CANCEL SUBSCRIPTION and click Finish Cancellation.</li>
+  <img src=""https://media.hellosivi.com/photos/sSHGz4jbHRR.png"" alt="""" />
+</ol>"
+Generation failed,Plans and credits,"
+If a design fails to generate your credits won’t be used. You can try again without losing anything.
+
+If failures persist check your internet connection or refresh the page.  
+Still facing issues? Reach out to us."
+Profile details,Account,"Update your name contact info and other profile details in just a few clicks.
+
+<ol>
+  <li>Click your User Profile at the top right of the home page and select Settings.</li>
+  <img src=""https://media.hellosivi.com/photos/sPygpeiaTwM.png"" alt="""" />
+  <li>Update your profile details including name and contact information.</li>
+  <img src=""https://media.hellosivi.com/photos/s44JpR45fri.png"" alt="""" />
+</ol>"
+Workspace,Account,"A workspace in Sivi is your dedicated area to manage all your brand kits generation preferences and saved designs.
+
+Workspaces are especially useful if you're handling more than one business. For example digital agencies can create separate workspaces for each client keeping their logos brand colors font styles and content preferences neatly separated.
+
+With workspace:
+<ul>
+  <li>Set up unique brand kits</li>
+  <li>Define design generation preferences</li>
+  <li>Create and store visuals specific to that brand</li>
+  <li>Keep client work organized</li>
+</ul>"
+Theme,Account,"Whether you are burning the midnight oil or working in daylight switch between light and dark themes to match your workspace ambiance.
+
+<ol>
+  <li>Click the User Profile on the top-right of the home page.</li>
+  <img src=""https://media.hellosivi.com/photos/suTKWLEytUC.png"" alt="""" />
+  <li>In the Themes section toggle between the Light and Dark themes according to your preference.</li>
+  <img src=""https://media.hellosivi.com/photos/s6YmFeFAcq9.png"" alt="""" />
+</ol>"
+Delete account,Account,"If you no longer wish to use Sivi you can delete your account permanently.
+
+<ol>
+  <li>Click your User Profile at the top right of the home page and tap Settings.</li>
+  <img src=""https://media.hellosivi.com/photos/sQ8GNShxaJC.png"" alt="""" />
+  <li>Click Delete Account at the bottom of the page.</li>
+  <img src=""https://media.hellosivi.com/photos/sEv4MOHbfG0.png"" alt="""" />
+  <li>Select Yes Delete to confirm.</li>
+  <img src=""https://media.hellosivi.com/photos/sl2JNJI2cZS.png"" alt="""" />
+</ol>"
+Folders,Account,"Organize your designs in one place with Folders and streamline your workflow.
+<ol>
+  <li>Click the menu at the top left of the homepage.
+    <img alt="""" src=""https://media.hellosivi.com/photos/sHqe4WdyDPQ.png"" />
+  </li>
+  <li>Select the folder option at the top to view your list of folders.
+    <img alt="""" src=""https://media.hellosivi.com/photos/sWynC4ygj4e.png"" />
+  </li>
+  <li>Choose a folder to see the designs stored in it.
+    <img alt="""" src=""https://media.hellosivi.com/photos/spgrAoQ2RgB.png"" />
+  </li>
+  <li>Click Manage Folders for a detailed view of all your folders and the designs inside.
+    <img alt="""" src=""https://media.hellosivi.com/photos/s0yWL85xADB.png"" />
+  </li>
+</ol>"
+View designs,Account,"Access all your generated and edited designs in one place.
+<ol>
+  <li>Click the Designs option at the top right of the homepage.
+    <img alt="""" src=""https://media.hellosivi.com/photos/sHqe4WdyDPQ.png"" />
+  </li>
+  <li>Scroll through the Generated section to view all the original design outputs.
+    <img alt="""" src=""https://media.hellosivi.com/photos/sN1sPZF45Pf.png"" />
+  </li>
+  <li>Go to the Edited section to find designs you've modified.
+    <img alt="""" src=""https://media.hellosivi.com/photos/smEkLCYOBsO.png"" />
+  </li>
+  <li>Hover over any design to access options to edit download and more.
+    <img alt="""" src=""https://media.hellosivi.com/photos/svOikbZQtuq.png"" />
+  </li>
+</ol>"
+Why does the generation take minutes?,Troubleshooting FAQ,"We have optimized the generation process to be as fast as possible. However it still takes some time to get picked up from the queue.
+
+Here's an overview of the generation process:
+<ol>
+  <li>The request is added to the queue.</li>
+  <li>Copy and images are analyzed.</li>
+  <li>Designs are composed and colors are added.</li>
+</ol>
+
+Typically this entire process takes around a minute.
+
+There are instances where generation may take longer than usual and these include:
+<ol>
+  <li>Increased parallel generation requests which require additional time to process from the queue.</li>
+  <li>Adding more assets as each image requires analysis leading to extended processing times.</li>
+</ol>"
+Why do certain designs are not upto the mark?,Troubleshooting FAQ,"Sivi's design outcomes are an interplay between input and model capabilities. The quality of input including prompt and brand assets significantly influences the resulting designs. 
+
+It's worth noting that despite providing good content there may be instances where certain designs fall short of expectations. In such cases the performance is attributed to the capabilities of the model. We are constantly dedicated to improving our models."
+Why are the chosen images not relevant sometimes?,Troubleshooting FAQ,"Sivi understands your content and generates images with the AI image generator or picks images from its free stock library accordingly. Occasionally it may choose images that are not relevant. You have the flexibility to add your own images before generating the designs.
+   
+To know more about assets check out the <a href=""/support/design-assets"">Add assets</a> article"
+What contributes to the poor choice of colors at times?,Troubleshooting FAQ,"When there are no colors in the styles Sivi automatically selects color palettes by analyzing the tone emotions etc. derived from the provided content. However there is a chance that it may occasionally make incorrect color choices.  
+
+An alternative approach is to add your preferred colors to the design styles. For step-by-step instructions check out this article on <a href=""/support/brand-colors"">adding colors</a>.
+
+It's worth noting that even when the model selects the right palettes there could be instances where it produces poor contrast. We are actively working on improving this aspect. "
+Multilingual ad campaign,Use cases,"EKDN Plumbing has expanded its services across Canada. To connect with more customers they’re running a display ad campaign in both French and English. They begin by adding a prompt and uploading brand assets for the French banner ads.
+<img alt="""" src=""https://media.hellosivi.com/photos/swLEVae7nsN.png"" />
+
+From the ad copy and image suggestions Sivi provides they pick what fits best.
+<img alt="""" src=""https://media.hellosivi.com/photos/s4I4ocHiAip.png"" />
+
+In seconds Sivi generates French ad designs - ready to go live.
+<img alt="""" src=""https://media.hellosivi.com/photos/s6VdU9gPvkX.png"" />
+
+Next they switch the language to English using the same input.
+<img alt="""" src=""https://media.hellosivi.com/photos/s6jx7l1oamU.png"" />
+
+Just like that they have a full set of English banner ads too. EKDN Plumbing now has an ad campaign in multiple languages tailored for its growing audience.
+<img alt="""" src=""https://media.hellosivi.com/photos/sPQs7GTsDpX.png"" />"
+From one prompt to every platform,Use cases,
+List step-by-step information,Use cases,"Lvl Home Realty is a real estate company that supports first-time homebuyers through the often overwhelming process of purchasing a home. James the owner wants to offer clear and simple step-by-step guidance to make the journey easier for clients.
+<img alt="""" src=""https://media.hellosivi.com/photos/s9h8IUlRUmO.png"" />
+
+James reviews the AI-generated copy and image options and selects the one that best fits his needs.
+<img alt="""" src=""https://media.hellosivi.com/photos/sZqGffJDbJN.png"" />
+
+In just minutes Sivi delivers a clean professional banner that outlines the homebuying steps clearly. Lvl Home Realty can now share this banner on their website and social media to help potential clients understand the path to homeownership.
+<img alt="""" src=""https://media.hellosivi.com/photos/sw1OkVsAXJA.png"" />"
+Promote event,Use cases,
+Highlight benefits,Use cases,"Aleena a yoga instructor wants to spread the word about her upcoming Power Yoga class. She wants her followers to attend the class as it builds strength improves sleep and boosts energy levels. She <a href=""/support/generate-designs-for-your-content"">adds the content</a> to Sivi.
+<img alt="""" src=""https://media.hellosivi.com/photos/s0GfaLJzUq5.png"">
+
+It's a one-hour online session that happens from 6 to 7 a.m. on Saturday. If anyone wants to know more about her or the session they can take a look at her website.
+<img alt="""" src=""https://media.hellosivi.com/photos/s2f04DGkJHw.png"">
+
+All set! Sivi has now generated designs based on the inputs given. Aleena can now post these on her social media handles.
+<img alt="""" src=""https://media.hellosivi.com/photos/s2kDzcOGsGt.png"">
+
+We are sure it's going to be an amazing class!"
+Jobs,Advanced,Sivi Jobs is a platform where users submit design requests and human designers use Sivi to create refine and deliver tailored visuals. It’s currently in development and will make high-quality design more accessible for everyone.
+API,Advanced,
+Community,Advanced,"Connect with other marketers designers and product builders using Sivi. Share feedback get support request features and explore how others are creating with Sivi.
+
+Join the conversation on <a href=""https://discord.gg/2mCQHhJ76v"">Discord</a>"
+Get in touch,Advanced,"Have questions or feedback? We're happy to hear from you.
+
+Email us at hello@sivi.ai and we’ll get back to you soon."
+Content engineering,Working with content,"Content engineering refers to organizing your copy assets and details in the content editor so Sivi can generate designs that match your vision.
+
+<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/1vk0UO6Lx3M?si=P4DFpwtY4LsHeTAS"" title=""YouTube video player"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"" referrerpolicy=""strict-origin-when-cross-origin"" allowfullscreen></iframe>"
+Generate designs for your content,Working with content,"Imagine you are gearing up to advertise your water bottle with display ads and you have your content ready. Here's how you can transform your content into visually appealing designs in minutes.
+
+<ol>
+   <li>Once you are logged into Sivi choose the required design dimension.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/szOWDRxqY0j.png"">
+   </li>
+   <li>Click Write Content on the left side panel of the home page.
+      <img alt="""" src=""https://media.hellosivi.com/photos/sMSMnrdQitF.png"">
+   </li>
+   <li>Proceed to the Content Editor to start adding the content. Enter “/” to view the list of content blocks.
+      <img alt="""" src=""https://media.hellosivi.com/photos/s4fmKQyTJS7.png"">
+   </li>
+   <li>Select 'Title' block and start adding the headline.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sDAIyxrqMtH.png"">
+   </li>
+   <li>Select the text to add H1 as hierarchy to the title. To know more visit the <a href=""/support/add-heading"">Hierarchy</a> article.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sCjJ6Qbh2cb.png"">
+   </li>
+   <li>Add 'Text' block for supporting copy.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/szuhW6SM7dH.png"">
+   </li>
+   </li>
+   <li>CTA can be added within the 'Button' block.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/s2WnG7Hfxs6.png"">
+   </li>
+   <li>To add images type ""/Asset"" and select the 'Asset' block. Look into the <a href=""/support/add-assets-to-content"">Assets</a> article to know more.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sgSQX9qAj8l.png"">
+   </li>
+   <li>Select the required images from the Free Stock or Upload them.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sNxVklM5ODf.png"">
+   </li>
+</ol>
+Once you have completed adding content click 'Generate Designs' and watch as Sivi generates designs."
+Add assets to content,Working with content,"<ol>
+  <li>Type /asset and choose asset block.</li>  
+  <img alt="""" src=""https://media.hellosivi.com/photos/srlldgxIJyh.png"" />  
+
+  <li>Click the ""+"" on Assets section to view stock images.</li>  
+  <img alt="""" src=""https://media.hellosivi.com/photos/syycPLiGyGD.png"" />  
+
+  <li>Type the search term in the search bar at the top.</li>  
+  <img alt="""" src=""https://media.hellosivi.com/photos/s7Cg3jzzvfq.png"" />  
+
+  <li>Choose the required free stock images to add them to the content.</li>  
+  <img alt="""" src=""https://media.hellosivi.com/photos/s2n3Rl1U2Q3.png"" />  
+
+  <li>To upload your own asset select Upload at the top of the Add Assets section.</li>  
+  <img alt="""" src=""https://media.hellosivi.com/photos/sP5ug1YahCo.png"" />  
+
+  <li>You can copy-paste the image.</li>  
+  <img alt="""" src=""https://media.hellosivi.com/photos/sTzfdBOmAMP.png"" />  
+
+  <li>Or click browse files and select the required assets from your computer.</li>  
+  <img alt="""" src=""https://media.hellosivi.com/photos/sfTH5Drvg1g.png"" />  
+
+  <li>Click Upload and add the image to the content.</li>  
+  <img alt="""" src=""https://media.hellosivi.com/photos/suuxGsHtI8j.png"" />  
+</ol>"
+Group blocks,Working with content,"Group content blocks to place them together in the generated designs
+
+<ol>
+  <li>Click the Groups on the top.  
+     <img alt="""" src=""https://media.hellosivi.com/photos/sujSrReQH2M.png"" />  
+  </li>
+   
+  <li>Select the blocks and click Group.  
+     <img alt="""" src=""https://media.hellosivi.com/photos/sa6RjjwQqMk.png"" />  
+  </li>
+   
+  <li>In case you do not want a group click Ungroup.  
+     <img alt="""" src=""https://media.hellosivi.com/photos/semHlHZNNsa.png"" />  
+  </li>
+</ol>"
+Add heading,Working with content,"Choose the level of hierarchy (H1 H2 etc.) with the heading tag to highlight the content in the generated designs accordingly.
+<ol>
+    <li>
+        Select the text  
+        <img alt="""" src=""https://media.hellosivi.com/photos/sQDfUcYFaGr.png"" />  
+    </li>
+    <li>
+        Choose the required hierarchy such as H1 H2 H3 etc.  
+        <img alt="""" src=""https://media.hellosivi.com/photos/sop86P0ux2M.png"" />  
+    </li>
+</ol>"
+Adding colors and fonts,Working with content,"Ensure brand consistency by adding custom colors and fonts in the content editor.
+
+<ol>
+    <li>Click the settings icon at the bottom.
+        <img alt="""" src=""https://media.hellosivi.com/photos/sujSrReQH2M.png"" />
+    </li>
+    <li>Click 'Change Palette' in the Colors section.
+        <img alt="""" src=""https://media.hellosivi.com/photos/sXZXww2h6rl.png"" />
+    </li>
+    <li>Select the desired color palette and click 'Save' to select that.
+        <img alt="""" src=""https://media.hellosivi.com/photos/sDJpu7dDZpW.png"" />
+    </li>
+    <li>To choose new fonts in the Typography section click 'Add Typography'. 
+        <img alt="""" src=""https://media.hellosivi.com/photos/sxHoCdrWdR1.png"" />
+    </li>
+    <li>Choose the font group you prefer and click 'Save'.
+        <img alt="""" src=""https://media.hellosivi.com/photos/sO6BGYhPfIR.png"" />
+    </li>
+   <li>You can also select Form New Style and make your own font pairing. 
+        <img alt="""" src=""https://media.hellosivi.com/photos/sJ9iHN6Av5n.png"" />
+    </li>
+    <li>Finally your color palette and typography have been updated.
+        <img alt="""" src=""https://media.hellosivi.com/photos/s0dlkcar5RL.png"" />
+    </li>
+</ol>"
+Add a divider,Working with content,"Imagine you are creating an ad for your travel agency's Thailand package. To ensure your audience can easily spot your contact details from other information you can divide the content into sections.
+
+<ol>
+    <li>Add a new line between the content that needs to be separated and type ""/divider"".  
+   <img alt="""" src=""https://media.hellosivi.com/photos/s8hbKi2jKuv.png"" /></li>
+
+    <li>Select 'Divider' block from the menu.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/sfBtodCY5SA.png"" /></li>
+</ol>"
+Content blocks,Working with content,"In Content Editor every piece of content is added as a block. Content Block refers to a distinct piece of information a list images copy or any other element that has to be included in your visual design.
+
+<ol>
+   <li>You can add blocks to the Content Editor with the Slash command. Type “/” to look at the list of possible content blocks in the menu.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sKcMoIPzqTV.png"" />  
+   </li>
+   <li>After typing “/” you can continue typing to search for a specific content block.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sCxPRioVB1B.png"" />  
+   </li>
+   <li>Select a content block in the menu to add it to the Content Editor and start typing the content.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/ssM1EhvjQXu.png"" />  
+   </li>
+</ol>
+
+Once the content block is added tags/semantics on the left represent the type of content block. Tags help Sivi understand your intent and generate designs accordingly. To change the tag visit the <a href=""/support/change-tags"">Change Tags</a> article."
+Add buttons,Working with content,"Consider that you want to generate a design for your upcoming sale. You want to turn your CTA into an eye-catching button that leads customers to your latest promotions.
+
+<ol>
+    <li>You can manually add tags with slash commands. Type “/button” choose the Button from the menu and add your CTA.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/sWsYxJjjPE4.png"" /></li>
+
+    <li>Or type your CTA in a new line and Sivi will automatically tag it as Button.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/s2t2zkwVGoV.png"" /></li>
+</ol>"
+Add contact and social,Working with content,"Let's say you want to promote your new summer fashion collection through Instagram ads. You want to add your website and social media details so that people can contact you for inquiries.
+
+With Contact and Social tags you can add contact and social media profile in the designs. By adding the tag Sivi will pick a relevant icon and place it along with the content block in the designs.
+
+Add your contact details such as website phone number email ID etc. with the Contact block.
+
+<ol>
+<li>On typing contact details Sivi will automatically tag it as Contact blocks.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/smhwu9zgND4.png"">  
+</li>
+
+<li>Or type /contact to add a Contact block.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/so44uMpEx5z.png"">  
+</li>
+</ol>
+
+Add your social media profiles with respective Social blocks.
+
+<ol>
+<li>Type / followed by social media name to add respective block.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/sBAY5mCNx30.png"">  
+</li>
+
+<li>Or type /social and select the required social block.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/sSqvrHrwHA8.png"">  
+</li>
+</ol>"
+Move blocks,Working with content,"After adding the copy to Content Editor let's say you want to rearrange it to create coherent messaging. Then
+
+<ol>
+    <li>Hover over a content block and click the options icon on the right side.  
+        <img alt="""" src=""https://media.hellosivi.com/photos/sZjI6uAwOZo.png"" />  
+    </li>
+
+    <li>Click the up or down arrow to move it  
+        <img alt="""" src=""https://media.hellosivi.com/photos/sy4D3xlAFWj.png"" />  
+    </li>
+</ol>"
+Highlight text,Working with content,"At times it might be essential to highlight a specific piece of text block in a design to grab attention. By marking them as important Sivi will highlight the text using a vector or color. To do that:
+
+<ol>
+  <li>Click the dot on the left side of the specific text block.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/skL4zeQeSmm.png"" />  
+  </li>
+  
+  <li>Select 'Important' in the options.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/sw9HxkT1RnK.png"" />  
+  </li>
+</ol>"
+Pages,Working with content,"Imagine you want to try different content options for your baby products shop's display ads. With multiple pages you can explore diverse content variations for your designs while maintaining consistent dimensions and brand guidelines.
+
+<ol>
+    <li>Click dropdown arrow on the top of Content Editor.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/sZl3j1sWesp.png"" />  
+    </li>
+
+    <li>Click 'Add Page' to add a new page and start adding content.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/sznG0lrGvSr.png"" />  
+    </li>
+
+    <li>To duplicate or delete a page select the respective option next to the page preview.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/sjpFvAXOytg.png"" />  
+    </li>
+</ol>"
+Bulleted list,Working with content,"Let's say you are about to design creatives highlighting the features of your online grocery store. You can make the content clear by organizing them as a bulleted list. To add such a list in Sivi:
+
+<ol>
+<li>Type ""/"" and choose the 'Bulleted List' block.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/sX8u3UHwmcI.png"" /></li>
+
+<li>After each point in the list press 'enter' to add a new point.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/sX3rFXGQ0Im.png"" /></li>
+
+<li>Click on the empty space below to exit the list and add other content blocks.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/sjSCjjWT9m9.png"" /></li>
+</ol>"
+Numbered list,Working with content,"Imagine you are compiling step-by-step visuals to help users navigate your fitness app. Add a numbered list to ensure a structured presentation of each step. Follow the steps below to generate such visuals with Sivi.
+
+<ol>
+<li> Type ""/"" and choose the 'Numbered List' block.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/sDGUKvrDn6f.png"" />
+</li>
+
+<li> After adding the first item in the list press 'enter' to add a new one.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/sHhWy7nNw1P.png"" />
+</li>
+
+<li> Click on the empty space below to exit the list and add other content blocks.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/sXp2xhbuww5.png"" />
+</li>
+</ol>"
+Change tags,Working with content,"Let's say as an e-commerce marketer you’re running an offer campaign. As you add the promotional content Sivi will tag it automatically or you can add it manually as mentioned in the Slash Command article.
+
+If you want to fine-tune it later to best suit your design needs you can easily change the tags.
+
+<ol>
+    <li>Click the tag on the left side of the content block.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/sMA9e0wC7n5.png"" /></li>
+    
+    <li>Scroll through the tags and select the required one.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/sVJj97cuUVt.png"" /></li>
+</ol>"
+Content snippets,Working with content,"Let's say that you are an e-commerce marketer new to Sivi and want to design ads. Instead of starting with a blank page you can use Snippets.  
+'Snippets' are pre-defined content that can help you explore understand and store content in Sivi.  
+With 'Examples' you can choose a sample snippet that is similar to your content and edit it based on your needs. To add that
+
+<ol>
+   <li>Click 'Snippets' on the left panel.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/solDbUISjG3.png"" />  
+   </li>
+   <li>Select the 'Examples' section on the top. Scroll through the purposes and choose the one that suits your content.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/s2xdYkVmtyF.png"" />  
+   </li>
+   <li>Click on a content snippet to add it to the Content Editor.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/s05oeyfv4tH.png"" />  
+   </li>
+   <li>Edit the content and add your assets if required.  
+      <img alt="""" src=""https://media.hellosivi.com/photos/ss4AL1QOE6p.png"" />  
+   </li>
+</ol>"
+Save content,Working with content,"Imagine you are an e-commerce marketer running campaigns regularly for different products but with a similar content structure. In that case you might want to save the content for future use.
+
+<ol>
+    <li>After adding content in Content Editor click 'Add to favorites' on the top.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/s0auutBnK5V.png"" />  
+    </li>
+
+    <li>Go to Snippets and click 'Favorites' to find this content which can be reused whenever needed.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/sJ5MWgYbHPq.png"" />  
+    </li>
+</ol>"
+Primary asset,Working with content,"When you add an asset it becomes the primary asset by default and automatically gets marked as 'important' which means it will get highlighted in the generated design. If you want two asset blocks and wish to highlight the second one you have to:
+
+<ol>
+<li>Click the dot on the left side of the Asset block.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/s0P0xY9mvHx.png"" />  
+</li>
+
+<li>Select 'Important' from the options.  
+   <img alt="""" src=""https://media.hellosivi.com/photos/s21tEO5msRl.png"" />  
+</li>
+</ol>
+
+Now the second asset becomes the primary asset."
+Add a sale/offer,Working with content,"Let's say you are running super sale for your stationery supplies and want to highlight your offer details.
+
+<ol>
+    <li>Type /Sale and choose the Sale/Offer content block.
+        <img alt="""" src=""https://media.hellosivi.com/photos/suTRVf801H0.png"" />
+    </li>
+    <li>Add your offer details.
+        <img alt="""" src=""https://media.hellosivi.com/photos/sKX4LnHiwzB.png"" />
+    </li>
+</ol>"
+Add a coupon,Working with content,"Got a special offer to your customers and want to give them a coupon code? Here's what you need to do:
+
+<ol>
+  <li>
+    Type '/Coupon' and click on the Coupon block.
+    <img alt="""" src=""https://media.hellosivi.com/photos/sbj5tgB7vns.png"" />
+  </li>
+  <li>
+    Type the coupon code.
+    <img alt="""" src=""https://media.hellosivi.com/photos/suflFrHf1Bn.png"" />
+  </li>
+</ol>"
+Add date or time,Working with content,"If you are promoting an event and want to include the date/time in the design you can:
+<ol>
+  <li>Type '/Date' and choose the Date/Time block.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/sJFNxOdOuOR.png"" />  
+  </li>
+  <li>Enter the date and time.  
+    <img alt="""" src=""https://media.hellosivi.com/photos/skfvzgkZ5yM.png"" />  
+  </li>
+</ol>"
+Add hashtag,Working with content,"To add a hashtag
+
+<ol>
+  <li>Type '/Hashtag' and choose the block.</li>  
+  <img alt="""" src=""https://media.hellosivi.com/photos/sIOherytJLQ.png"" />  
+  <li>Type your hashtag text.</li>  
+  <img alt="""" src=""https://media.hellosivi.com/photos/sAqsSz0Zp8f.png"" />  
+</ol>"
+Content score,Working with content,"Let’s consider you want to compose a blog cover design for a post on compact home interior ideas. You keep adding content that you want to be featured in the design. But how do you know whether the content is becoming excessive or too less for the chosen design dimensions?
+
+This is where your guiding light - the Content Score - will help you. Positioned at the top right of the content editor it evaluates the content using the following parameters:
+<ol>
+<li>Content Ratio: The ratio of text and images to the design size</li>
+<li>Hierarchy: The order in which the inputs are fed</li>
+<li>Call To Action: Presence of a CTA option</li>
+<li>Semantic Tagging: Proper tagging of the inputs (Title Button Contact Image Person etc.)</li>
+</ol>
+
+<img alt="""" src=""https://media.hellosivi.com/photos/sUb6ls5Wfkr.png"" />
+
+A higher score indicates better generated designs and a score of 100 means your content is a perfect fit!"
